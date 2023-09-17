@@ -26,6 +26,8 @@ Utility to search for clip names (and optionally file path names for audio clips
 ### Updates
 - 1.0.2
   - Show current match in device
+- 1.0.3
+  - Click on current match opens track view
 
 
 ## RMX Tempo Adjust
