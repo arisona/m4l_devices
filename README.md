@@ -1,8 +1,24 @@
 # Ableton Live / Max for Live Devices
 
-This repository contains a bunch of Max for Live utility devices for Ableton Live.
+This repository contains a bunch of Ableton Live devices suitable for DJing.
 
-You can also download these devices from https://maxforlive.com/profile/user/radar
+You can also download the Max for Live devices from https://maxforlive.com/profile/user/radar
+
+
+## RMX 90s Boost
+
+Applies gentle compression to boost older, less compressed tracks to the level of today's loud music.
+
+
+## RMX M1 Channel
+
+A rack that is modeled a channel of the PLAYdifferently Model 1 mixer (trim, drive, contour, sculpt).
+
+
+## RMX Master
+
+Simple DJ master channel with EQ, compression and scope.
+
 
 ## RMX Max Console
 
