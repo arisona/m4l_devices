@@ -14,6 +14,8 @@ Applies gentle compression to boost older, less compressed tracks to the level o
 
 A rack that is modeled a channel of the PLAYdifferently Model 1 mixer (trim, drive, contour, sculpt).
 
+Requires Ableton Live 12.2+.
+
 
 ## RMX Master
 
@@ -32,6 +34,8 @@ Simple button to open the Max Console from Ableton Live.
 <img src="images/rmx_session_search.png" height="200">
 
 Utility to search for clip names (and optionally file path names for audio clips) in session view. Covers a missing feature in Ableton and is particularly useful when you have hundreds of clips in your session (such as I have for my DJ sets).
+
+Latest version requires Ableton Live 12.2+, "RMX Session Search (Legacy)" works on earlier versions.
 
 ### Notes
 - For performance reasons, the utility caches all clip names when the search box is cleared. I.e. when you add / remove or rename clip, make sure you first clear the search box.
